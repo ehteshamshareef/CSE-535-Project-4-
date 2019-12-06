@@ -2,6 +2,8 @@
 
 This is our CSE 535 final project which analyses the impact of political rhetoric in traditional and social media.
 
+<video src="https://www.youtube.com/watch?v=tV1nVDUjivY&t width="320" height="200" controls preload></video>
+
 Stack : 
 
 1)Client-Side : Angular 6 .      
