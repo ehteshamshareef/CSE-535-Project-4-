@@ -1,4 +1,4 @@
-# CSE-535-Project-4-
+# CSE-535-Project-4-Seamless Crawlers
 
 This is our CSE 535 final project which analyses the impact of political rhetoric in traditional and social media.
 
