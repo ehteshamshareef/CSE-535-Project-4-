@@ -2,7 +2,7 @@
 
 This is our CSE 535 final project which analyses the impact of political rhetoric in traditional and social media.
 
-[![Project Video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=tV1nVDUjivY/0.jpg)](https://www.youtube.com/watch?v=tV1nVDUjivY)
+[![Project Video](https://img.youtube.com/vi/tV1nVDUjivY/0.jpg)](https://www.youtube.com/watch?v=tV1nVDUjivY)
 
 Stack : 
 
